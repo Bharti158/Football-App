@@ -1,0 +1,69 @@
+body {
+	color:#666;
+	font-family:sans-sarif;
+}
+
+.header {
+	height:60px;
+}
+
+.navbar {
+	background-color: #38003c;
+	width:100%;
+}
+
+
+.app-name {
+	color:#fff;
+	text-align:center;
+}
+.select-league{
+    width: 16.66666667%;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.league-dropdown {
+    border: 1px solid #38003c;
+}
+.league-dropdown:focus{
+	border: 1px solid #38003c;
+}
+.league-table-heading {
+	color:#38003c;
+}
+
+.form-group {
+	margin:20px 0px;
+}
+
+.league-table {
+	background-color: lightgrey;
+	color:black;
+}
+
+.league-table thead {
+	font-size:15px;
+}
+
+.team-name img{
+	width:24px;
+	height:24px;
+	margin-right:10px;
+}
+.fixture-detail {
+	background-color: darkgrey;
+	text-align: center;
+	font-size:20px;
+}
+.timer{
+	text-align:right;
+	font-size:17px;
+}
+.player-detail {
+	background-color: darkgrey;
+	text-align: center;
+	font-size:20px;
+}
+
+
